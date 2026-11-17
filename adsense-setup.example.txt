@@ -1,0 +1,5 @@
+<!-- Este archivo documenta la integración, NO coloca anuncios reales. -->
+<!-- Tras aprobación, copia exactamente el fragmento de Google en el head de las páginas. -->
+<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-TU_IDENTIFICADOR" crossorigin="anonymous"></script> -->
+<!-- Para Auto ads, usa el panel AdSense y configura mensajes de privacidad / CMP si aplica. -->
+<!-- Para slots manuales, cada bloque usará data-ad-client y data-ad-slot de Google, nunca valores inventados. -->

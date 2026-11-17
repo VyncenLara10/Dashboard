@@ -1,0 +1,33 @@
+{
+  "root": {
+    "domain": "vyntools.com",
+    "repository": "VyncenLara10/Dashboard",
+    "project": "vyntools-dashboard"
+  },
+  "externalTools": [
+    {
+      "name": "Barras Studio",
+      "domain": "barras.vyntools.com",
+      "repository": "VyncenLara10/Barras",
+      "status": "connected"
+    }
+  ],
+  "ideas": [
+    {
+      "subdomain": "juegos.vyntools.com",
+      "description": "A futuro, juegos más avanzados en proyecto separado",
+      "status": "planned"
+    },
+    {
+      "subdomain": "qr.vyntools.com",
+      "description": "Solo si el generador QR se convierte en aplicación independiente",
+      "status": "planned"
+    },
+    {
+      "subdomain": "imagenes.vyntools.com",
+      "description": "Solo si las utilidades de imagen necesitan modelo más pesado",
+      "status": "planned"
+    }
+  ],
+  "note": "No apuntar DNS a estos subdominios planificados hasta publicar los respectivos proyectos."
+}
