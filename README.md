@@ -122,3 +122,8 @@ node scripts/agregar-subdominio.mjs "Sopa de letras PRO" "https://juegos.vyntool
 ```
 
 El comando añade un enlace HTML rastreable al catálogo de `index.html`, actualiza los contadores y documenta el destino en `assets/js/config.js`. No crea repositorios, DNS ni proyectos Cloudflare. Revisa el cambio antes de publicarlo; no lo ejecutes para direcciones que todavía no funcionan. No se añade el subdominio al `sitemap.xml` del dominio raíz, ya que la aplicación externa deberá publicar su sitemap propio.
+
+
+## Despliegue y anuncios
+
+Consulta [DESPLIEGUE-Y-ADSENSE.md](DESPLIEGUE-Y-ADSENSE.md). La integración está preparada para configurar el ID público de Google AdSense, primero verificar el sitio y después activar Auto ads con consentimiento adecuado. No hay anuncios activos hasta configurar tu ID.
